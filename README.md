@@ -16,8 +16,7 @@ Open your terminal and run:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
-Replace your-username and your-repository with your GitHub username and repository name.
+git clone https://github.com/Dhirajkumar122/rbac.git
 
 2. Navigate to the Project Directory
 bash
